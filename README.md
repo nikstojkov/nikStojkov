@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nik Stojkov</h1>
 <h3 align="center">Recent Le Wagon Web Development graduate, looking to connect and collaborate in the wonderful world of tech.</h3>
 
-- 🔭 I’m currently working on **All of you, An equipment inverntory app, Websites for freinds and family**
+- 🔭 I’m currently working on **All of you, An equipment inventory app, Websites for freinds and family**
 
 - 🌱 I’m currently learning **Ruby on Rails, Javascript**
 
