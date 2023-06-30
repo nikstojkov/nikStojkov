@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nik Stojkov</h1>
 <h3 align="center">Recent Le Wagon Web Development graduate, looking to connect and collaborate in the wonderful world of tech.</h3>
 
-- 🔭 I’m currently working on **All of you**
+- 🔭 I’m currently working on **All of you** **An equipment inverntory app ** **Websites for freinds and family**
 
 - 🌱 I’m currently learning **Ruby on Rails, Javascript**
 
-- 👯 I’m looking to collaborate on **All of you, Python self watering project, other website, mailing list counter.**
+- 👯 I’m looking to collaborate on **Anything that makes lives easier**
 
-- 🤝 I’m looking for help with **All of You**
+- 🤝 I’m looking for help with **AJAX**
 
 - 📫 How to reach me **nik.stojkov@gmail.com**
 
